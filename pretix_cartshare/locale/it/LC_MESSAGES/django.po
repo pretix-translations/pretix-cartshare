@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-06 16:59+0100\n"
-"PO-Revision-Date: 2020-06-14 14:00+0000\n"
+"PO-Revision-Date: 2020-06-15 17:00+0000\n"
 "Last-Translator: Frank <webappconcept@gmail.com>\n"
 "Language-Team: Italian <https://translate.pretix.eu/projects/pretix/"
 "pretix-plugin-cartshare/it/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: pretix_cartshare/forms.py:17
 msgid "Count"
-msgstr ""
+msgstr "Conteggio"
 
 #: pretix_cartshare/forms.py:21
 msgid "Product"
